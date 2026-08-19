@@ -1,3 +1,0 @@
-:root{--display:'Baloo 2',Arial,sans-serif;--corpo:'Poppins',Arial,sans-serif}
-body{font-family:var(--corpo)}
-.depo-hero__titulo,.depo-destaque__titulo,.depo-fileira__cab h2,.depo-card__titulo,.depo-destaque__selo,.depo-card__selo{font-family:var(--display)}
